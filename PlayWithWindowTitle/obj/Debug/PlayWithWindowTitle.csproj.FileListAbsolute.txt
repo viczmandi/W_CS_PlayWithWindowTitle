@@ -1,0 +1,6 @@
+c:\users\viczmandni\documents\visual studio 2015\Projects\PlayWithWindowTitle\PlayWithWindowTitle\bin\Debug\PlayWithWindowTitle.exe.config
+c:\users\viczmandni\documents\visual studio 2015\Projects\PlayWithWindowTitle\PlayWithWindowTitle\bin\Debug\PlayWithWindowTitle.exe
+c:\users\viczmandni\documents\visual studio 2015\Projects\PlayWithWindowTitle\PlayWithWindowTitle\bin\Debug\PlayWithWindowTitle.pdb
+c:\users\viczmandni\documents\visual studio 2015\Projects\PlayWithWindowTitle\PlayWithWindowTitle\obj\Debug\PlayWithWindowTitle.csprojResolveAssemblyReference.cache
+c:\users\viczmandni\documents\visual studio 2015\Projects\PlayWithWindowTitle\PlayWithWindowTitle\obj\Debug\PlayWithWindowTitle.exe
+c:\users\viczmandni\documents\visual studio 2015\Projects\PlayWithWindowTitle\PlayWithWindowTitle\obj\Debug\PlayWithWindowTitle.pdb
